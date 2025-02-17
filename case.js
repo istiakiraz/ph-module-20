@@ -13,3 +13,4 @@ if(sub.toLowerCase().trim() === book.toLowerCase().trim()){ //.trim() 'gap close
 else{
     console.log("i hate this");
 }
+

@@ -26,7 +26,7 @@ for(const ky of key){
     
 }
 
-// extra ----------
+// extra ---------- different way to create new object
 
 const pen = new Object()
 console.log(pen);
